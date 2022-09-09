@@ -30,37 +30,31 @@ body {
 }
 
 @media (max-width: 1400px) {
-
   .container {
     width: 1150px;
   }
 }
 
 @media (max-width: 1200px) {
- 
   .container {
     width: 980px;
   }
 }
 
 @media (max-width: 992px) {
- 
   .container {
     width: 760px;
   }
 }
 
 @media (max-width: 768px) {
-
   .container {
     width: 600px;
   }
 }
 
-
-@media (max-width: 576px) { 
- 
+@media (max-width: 576px) {
   .container {
-    width: 420px;
+    width: 400px;
   }
- }
+}
