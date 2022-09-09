@@ -30,36 +30,28 @@ body {
 }
 
 @media (max-width: 1400px) {
-  body {
-    background: red;
-  }
+
   .container {
     width: 1150px;
   }
 }
 
 @media (max-width: 1200px) {
-  body {
-    background: green;
-  }
+ 
   .container {
     width: 980px;
   }
 }
 
 @media (max-width: 992px) {
-  body {
-    background: purple;
-  }
+ 
   .container {
     width: 760px;
   }
 }
 
 @media (max-width: 768px) {
-  body {
-    background: yellow;
-  }
+
   .container {
     width: 600px;
   }
@@ -67,9 +59,7 @@ body {
 
 
 @media (max-width: 576px) { 
-  body {
-    background: gray;
-  }
+ 
   .container {
     width: 420px;
   }
