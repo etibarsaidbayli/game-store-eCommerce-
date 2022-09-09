@@ -1,0 +1,23 @@
+.addToCartBtn {
+  width: 120px;
+  padding: 5px 0;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1.3rem;
+  background-color: purple;
+  color: #fff;
+  font-family: inherit;
+}
+
+.removeToCart {
+  background: orangered;
+  width: 120px;
+  padding: 5px 0;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1.3rem;
+  color: rgb(255, 255, 255);
+  font-family: inherit;
+}

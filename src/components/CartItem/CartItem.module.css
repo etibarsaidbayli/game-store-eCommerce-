@@ -1,0 +1,32 @@
+.cart__item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 2rem;
+    margin-bottom: 10px;
+    padding:5px 10px;
+
+}
+
+.cart__itemChild {
+    display: flex;
+    gap:10px;
+    align-items: center;
+   
+
+}
+
+.cart__itemPrice {
+    font-size: 1.8rem;
+}
+
+.cart__itemDelBtn {
+    font-family: inherit;
+    font-size: 1.8rem;
+    cursor: pointer;
+    border-radius: 50%;
+    padding:2px;
+    color:#fff;
+    background-color: transparent;
+    border-color: 1px solid gray;
+}

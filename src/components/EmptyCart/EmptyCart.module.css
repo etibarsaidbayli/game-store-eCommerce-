@@ -1,0 +1,10 @@
+.cart__empty {
+    background-color: rgb(36, 37, 41);
+    position: absolute;
+    top: 55px;
+    right: 300px;
+    width: 400px;
+    text-align: center;
+    padding:20px;
+    font-size: 1.5rem;
+}

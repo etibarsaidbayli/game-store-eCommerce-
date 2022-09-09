@@ -1,0 +1,7 @@
+.game__genres__item {
+    font-size:1.5rem;
+    background-color: gray;
+    padding:3px;
+    border-radius: 5px;
+    cursor: pointer;
+}
